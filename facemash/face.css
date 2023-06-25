@@ -1,0 +1,17 @@
+.person1 {
+    border-radius: 10px;
+display: block;
+margin-left: auto;
+width: 20%;
+}
+.person2 {
+border-radius: 10px;
+display: flex;
+justify-content: center;
+width: 20%;
+}
+
+.submit{
+    border-radius: 10px;
+    border-color: cadetblue;
+}
